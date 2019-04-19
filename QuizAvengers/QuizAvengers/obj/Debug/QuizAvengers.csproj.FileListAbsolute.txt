@@ -1,0 +1,24 @@
+c:\users\bruno\documents\visual studio 2017\Projects\QuizAvengers\QuizAvengers\bin\Debug\QuizAvengers.exe.config
+c:\users\bruno\documents\visual studio 2017\Projects\QuizAvengers\QuizAvengers\bin\Debug\QuizAvengers.exe
+c:\users\bruno\documents\visual studio 2017\Projects\QuizAvengers\QuizAvengers\bin\Debug\QuizAvengers.pdb
+c:\users\bruno\documents\visual studio 2017\Projects\QuizAvengers\QuizAvengers\obj\Debug\QuizAvengers.csprojResolveAssemblyReference.cache
+c:\users\bruno\documents\visual studio 2017\Projects\QuizAvengers\QuizAvengers\obj\Debug\QuizAvengers.Properties.Resources.resources
+c:\users\bruno\documents\visual studio 2017\Projects\QuizAvengers\QuizAvengers\obj\Debug\QuizAvengers.csproj.GenerateResource.Cache
+c:\users\bruno\documents\visual studio 2017\Projects\QuizAvengers\QuizAvengers\obj\Debug\QuizAvengers.csproj.CoreCompileInputs.cache
+c:\users\bruno\documents\visual studio 2017\Projects\QuizAvengers\QuizAvengers\obj\Debug\QuizAvengers.exe
+c:\users\bruno\documents\visual studio 2017\Projects\QuizAvengers\QuizAvengers\obj\Debug\QuizAvengers.pdb
+c:\users\bruno\documents\visual studio 2017\Projects\QuizAvengers\QuizAvengers\obj\Debug\QuizAvengers.Frmtelainicial.resources
+c:\users\bruno\documents\visual studio 2017\Projects\QuizAvengers\QuizAvengers\obj\Debug\QuizAvengers.Frmquiz.resources
+c:\users\bruno\documents\visual studio 2017\Projects\QuizAvengers\QuizAvengers\obj\Debug\QuizAvengers.Form2.resources
+D:\JOGOS\Programação 2019\QuizAvengers\QuizAvengers\bin\Debug\QuizAvengers.exe.config
+D:\JOGOS\Programação 2019\QuizAvengers\QuizAvengers\bin\Debug\QuizAvengers.exe
+D:\JOGOS\Programação 2019\QuizAvengers\QuizAvengers\bin\Debug\QuizAvengers.pdb
+D:\JOGOS\Programação 2019\QuizAvengers\QuizAvengers\obj\Debug\QuizAvengers.csprojResolveAssemblyReference.cache
+D:\JOGOS\Programação 2019\QuizAvengers\QuizAvengers\obj\Debug\QuizAvengers.Frmtelainicial.resources
+D:\JOGOS\Programação 2019\QuizAvengers\QuizAvengers\obj\Debug\QuizAvengers.Form2.resources
+D:\JOGOS\Programação 2019\QuizAvengers\QuizAvengers\obj\Debug\QuizAvengers.Frmquiz.resources
+D:\JOGOS\Programação 2019\QuizAvengers\QuizAvengers\obj\Debug\QuizAvengers.Properties.Resources.resources
+D:\JOGOS\Programação 2019\QuizAvengers\QuizAvengers\obj\Debug\QuizAvengers.csproj.GenerateResource.Cache
+D:\JOGOS\Programação 2019\QuizAvengers\QuizAvengers\obj\Debug\QuizAvengers.csproj.CoreCompileInputs.cache
+D:\JOGOS\Programação 2019\QuizAvengers\QuizAvengers\obj\Debug\QuizAvengers.exe
+D:\JOGOS\Programação 2019\QuizAvengers\QuizAvengers\obj\Debug\QuizAvengers.pdb
